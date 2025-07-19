@@ -98,6 +98,7 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=anonized)](https://leetcode.com/anonized)
 [![Codeforces](https://cf-stats-api.vercel.app/api?handle=anonized&cf=true&style=flat)](https://codeforces.com/profile/anonized)
+
 ---
 
 ## 📫 Contact Me
