@@ -94,7 +94,9 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 </p>
 
 ---
-
+## 📊 Leetcode Stats
+   ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=anonized)
+---
 ## 📫 Contact Me
 
 - ✉️ Email: yabetsanon@gmail.com 
