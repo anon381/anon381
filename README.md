@@ -37,7 +37,6 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
-![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass)
 
 ### 🔹 Backend
@@ -76,6 +75,8 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 
 - 💻 [IP-1 Project](https://github.com/anon381/IP-1-Project)  
   A full-stack academic software project demonstrating integration of frontend and backend for book management.
+- 🌐 [JSL Church Website V2](https://trial-jsl.vercel.app//)  
+  ongoing A modern church website version 2 built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui, featuring advanced animations and responsive design.
 
 👉 View more on my [GitHub repositories »](https://github.com/anon381?tab=repositories)
 
@@ -96,7 +97,7 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 
 ## 📫 Contact Me
 
-- ✉️ Email: yabetsanon@gmail.com *(Replace with your actual contact email if you want)*
+- ✉️ Email: yabetsanon@gmail.com 
 
 ---
 
