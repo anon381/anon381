@@ -71,7 +71,7 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 - 🛍️ [New Bookstore](https://github.com/anon381/new_bookstore-main)  
   A complete bookstore web app with search, CRUD features, and responsive design using PHP and MySQL.
 
-- 🌐 [JSL Church Website V1](https://github.com/anon381/jslv1)  
+- 🌐 [JSL Church Website V1](https://jsl-evvu.vercel.app/)  
   A modern church website built with **Next.js, TypeScript, Tailwind CSS, and shadcn/ui**, featuring animations and responsive design.
 
 - 💻 [IP-1 Project](https://github.com/anon381/IP-1-Project)  
@@ -96,7 +96,7 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 
 ## 📫 Contact Me
 
-- ✉️ Email: yourname@example.com *(Replace with your actual contact email if you want)*
+- ✉️ Email: yabetsanon@gmail.com *(Replace with your actual contact email if you want)*
 
 ---
 
