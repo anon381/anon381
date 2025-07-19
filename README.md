@@ -94,12 +94,11 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 </p>
 
 ---
-## 📊 Leetcode Stats
-   ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=anonized)
----
-## 📊 CoddeForces Stats
+## 🧩 Coding Profiles
 
-![Codeforces](https://cf-stats-api.vercel.app/api?handle=https://codeforces.com/profile/anonized&cf=true&style=flat)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=anonized)](https://leetcode.com/anonized)
+[![Codeforces](https://cf-stats-api.vercel.app/api?handle=anonized&cf=true&style=flat)](https://codeforces.com/profile/anonized)
+---
 
 ## 📫 Contact Me
 
