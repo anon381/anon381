@@ -99,7 +99,7 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 ---
 ## 📊 CoddeForces Stats
 
-![Codeforces](https://cf-stats-api.vercel.app/api?handle=anonized&cf=true&style=flat)
+![Codeforces](https://cf-stats-api.vercel.app/api?handle=https://codeforces.com/profile/anonized&cf=true&style=flat)
 
 ## 📫 Contact Me
 
