@@ -82,10 +82,13 @@
 
 ---
 
-## 🧠 Coding Platforms
+## 🧠 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/anonized)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/anonized)
+### 📘 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anonized?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/anonized)
+
+### 🧮 Codeforces Stats  
+[![Codeforces](https://cf-leaderboard-api.vercel.app/api/user?handle=anonized&theme=dark)](https://codeforces.com/profile/anonized)
 
 ---
 
