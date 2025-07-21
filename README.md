@@ -14,7 +14,7 @@
 
 🎯 Passionate **Full Stack Web Developer**  
 🛠️ Focused on **clean, animated & responsive** design  
-🌱 Building apps using **Next.js, TypeScript, TailwindCSS**
+🌱 Building apps using **Next.js, TypeScript, TailwindCSS, React**
 
 ---
 
@@ -48,24 +48,24 @@
 
 ---
 
-## 🌍 Project Highlights (with GIFs)
+## 🌍 Project Highlights 
 
-| 🚀 Project | 📸 Preview | 🔧 Stack |
-|-----------|------------|----------|
-| **[JSL Church Website V1](https://jsl-evvu.vercel.app/)** | <img src="https://project-gif-url.com/jsl-v1.gif" width="250"/> | Next.js, TS, Tailwind, shadcn/ui |
-| **[Goodreads PHP Backend](https://github.com/anon381/goodreads-php-backend)** | <img src="https://project-gif-url.com/goodreads.gif" width="250"/> | PHP, MySQL |
-| **[New Bookstore](https://github.com/anon381/new_bookstore-main)** | <img src="https://project-gif-url.com/bookstore.gif" width="250"/> | PHP, MySQL |
-| **[IP-1 Project](https://github.com/anon381/IP-1-Project)** | <img src="https://project-gif-url.com/ip1.gif" width="250"/> | Full Stack Book Manager |
-| **[JSL Website V2 (WIP)](https://trial-jsl.vercel.app/)** | <img src="https://project-gif-url.com/jsl-v2.gif" width="250"/> | Next.js, TS, Tailwind, Motion |
+| 🚀 Project | 🔧 Stack |
+|-----------|----------|
+| **[JSL Church Website V1](https://jsl-evvu.vercel.app/)** | Next.js, TS, Tailwind, shadcn/ui |
+| **[Goodreads PHP Backend](https://github.com/anon381/goodreads-php-backend)** | PHP, MySQL |
+| **[New Bookstore](https://github.com/anon381/new_bookstore-main)** | PHP, MySQL |
+| **[IP-1 Project](https://github.com/anon381/IP-1-Project)** | Full Stack Book Manager |
+| **[JSL Website V2 (WIP)](https://trial-jsl.vercel.app/)** | Next.js, TS, Tailwind, Motion |
 
 ---
 
 ## 📦 Latest GitHub Activity
 
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=anon381&theme=github-compact)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anon381&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ⏱️ **Last Commit:**  
-![GitHub last commit](https://img.shields.io/github/last-commit/anon381/goodreads-php-backend?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/anon381/jslv1?style=for-the-badge)
 
 ---
 
@@ -76,9 +76,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anon381&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
+
+
 
 ---
 
@@ -86,7 +85,6 @@
 
 ### 📘 LeetCode Stats  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/anonized?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/anonized)
-
 
 ### 🧮 Codeforces Stats  
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anonized&theme=dark)](https://codeforces.com/profile/anonized)
