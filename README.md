@@ -79,7 +79,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anon381&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 ---
