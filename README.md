@@ -1,4 +1,4 @@
-## Hi there 👋 I am Yabets Maregn
+## Hi there 👋 I'm Yabets Maregn
 
 <!--
 **anon381/anon381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,14 +64,14 @@ I'm a passionate **Full Stack Web Developer** who loves turning ideas into reali
 
 > Some selected projects I’ve built recently:
 
+- 🌐 [JSL Church Website V1](https://jsl-evvu.vercel.app/)  
+  A modern church website built with **Next.js, TypeScript, Tailwind CSS, and shadcn/ui**, featuring animations and responsive design.
+  
 - 📚 [Goodreads PHP Backend](https://github.com/anon381/goodreads-php-backend)  
   Backend for a Goodreads clone with user shelves, reviews, and book management built using PHP and MySQL.
 
 - 🛍️ [New Bookstore](https://github.com/anon381/new_bookstore-main)  
   A complete bookstore web app with search, CRUD features, and responsive design using PHP and MySQL.
-
-- 🌐 [JSL Church Website V1](https://jsl-evvu.vercel.app/)  
-  A modern church website built with **Next.js, TypeScript, Tailwind CSS, and shadcn/ui**, featuring animations and responsive design.
 
 - 💻 [IP-1 Project](https://github.com/anon381/IP-1-Project)  
   A full-stack academic software project demonstrating integration of frontend and backend for book management.
