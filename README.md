@@ -88,8 +88,7 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/anonized?theme=dark&font=Fira+Code&ext=contest)](https://leetcode.com/anonized)
 
 ### 🧮 Codeforces Stats  
-[![Codeforces](https://cf-leaderboard-api.vercel.app/api/user?handle=anonized&theme=dark)](https://codeforces.com/profile/anonized)
-
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anonized&theme=dark)](https://codeforces.com/profile/anonized)
 ---
 
 ## 📫 Contact Me
