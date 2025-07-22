@@ -59,7 +59,7 @@
 | **[Goodreads PHP Backend](https://github.com/anon381/goodreads-php-backend)** | PHP, MySQL |
 | **[New Bookstore](https://github.com/anon381/new_bookstore-main)** | PHP, MySQL |
 | **[IP-1 Project](https://github.com/anon381/IP-1-Project)** | Full Stack Book Manager |
-| **[JSL Website V2 (WIP)](https://trial-jsl.vercel.app/)** | Next.js, TS, Tailwind, Motion |
+| **[JSL Website V2 (WIP)](https://trial-jsl.vercel.app/)** | trial home page landing with Next.js, TS, Tailwind, Motion |
 
 ---
 
