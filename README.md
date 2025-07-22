@@ -94,7 +94,6 @@
    ---->link to my leetcode (https://leetcode.com/anonized)
 
 ### 🧮 Codeforces Stats  
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anonized&theme=dark)
 ---->link to my codeforce (https://codeforces.com/profile/anonized)
 
 ---
