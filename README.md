@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-🎯 Passionate **Full Stack Web Developer**  
+🎯 Passionate **Full-Stack Web Developer**  
 🛠️ Focused on **clean, animated & responsive** design  
 🌱 Building apps using **Next.js, TypeScript, TailwindCSS, React**
 
