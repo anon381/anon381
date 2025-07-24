@@ -13,11 +13,24 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-🎯 Passionate **Full-Stack Web Developer**  
-🛠️ Focused on **clean, animated & responsive** design  
-🌱 Building apps using **Next.js, TypeScript, TailwindCSS, React**
+<p align="center">
+  🎯 Passionate <strong>Full-Stack Web Developer</strong> with a knack for turning ideas into interactive, scalable web experiences.
+</p>
+<p align="center">
+  🛠️ Specialized in building <strong>clean, responsive, and animated</strong> UIs that deliver smooth user interaction.
+</p>
+<p align="center">
+  🌱 Currently building full-stack apps using <strong>Next.js, TypeScript, TailwindCSS, React, Node.js, Prisma, PostgreSQL, MongoDB</strong>, and <strong>REST/GraphQL APIs</strong>.
+</p>
+<p align="center">
+  📦 Also exploring <strong>authentication (Auth.js, Clerk, Firebase)</strong>, <strong>state management (Zustand, Redux, React Query)</strong>, and performance optimization techniques.
+</p>
+<p align="center">
+  📈 Always learning, always shipping.
+</p>
+
 
 ---
 
