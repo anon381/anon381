@@ -104,7 +104,6 @@
 
 ### 📘 LeetCode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anonized?theme=dark&font=Fira+Code&ext=contest)
-   ---->link to my leetcode (https://leetcode.com/anonized)
 
 ### 🧮 Codeforces Stats  
 ---->link to my codeforce (https://codeforces.com/profile/anonized)
