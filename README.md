@@ -116,7 +116,7 @@
 
 ## 📫 Contact Me
 
-📧 Email: yabetsanon@gmail.com  
+📧 Telegram :- @Anonymous_l_y
 📂 Portfolio: [Coming Soon]  
 
 ---
