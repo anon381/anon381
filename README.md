@@ -102,14 +102,12 @@
 
 ## 🧠 Coding Profiles
 
-### 📘 LeetCode Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/anonized?theme=dark&font=Fira+Code&ext=contest)
-
-### 🧮 Codeforces Stats  
+### 📘 LeetCode Stats  and Codeforces Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/anonized?theme=dark&font=Fira+Code&ext=contest) 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anonized)](https://codeforces.com/profile/anonized)
 
 
----->link to my codeforce (https://codeforces.com/profile/anonized)
+
 
 ---
 
