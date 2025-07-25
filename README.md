@@ -107,7 +107,7 @@
 
 ### 📘 LeetCode Stats  and Codeforces Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anonized?theme=dark&font=Fira+Code&ext=contest) 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anonized)](https://codeforces.com/profile/anonized)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anonized&theme=dracula)](https://codeforces.com/profile/anonized)
 
 
 
