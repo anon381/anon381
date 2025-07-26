@@ -117,7 +117,7 @@
 
 ## 📫 Contact Me
 
-📧 Telegram :- @Anonymous_l_y
+📧 Telegram: [@Anonymous_l_y](https://t.me/Anonymous_l_y)
 ------------------------------------
 📂 Portfolio: [Coming Soon]  
 
