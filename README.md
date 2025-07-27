@@ -10,8 +10,8 @@
 </p>
 
 ---
+<h2 align="center">🚀 A<span>&#8203;</span>b<span>&#8203;</span>o<span>&#8203;</span>u<span>&#8203;</span>t<span>&#8203;</span> M<span>&#8203;</span>e</h2>
 
-<h2 align="center">🚀 About Me</h2>
 
 <p >
   🎯 Passionate <strong>Full-Stack Web Developer</strong> with a knack for turning ideas into interactive, scalable web experiences.
