@@ -23,7 +23,7 @@
   🎯 Passionate <strong>Full-Stack Web Developer</strong> with a knack for turning ideas into interactive, scalable web experiences.
 </p>
 <p >
-  🛠️ Specialized in building <strong>clean, responsive, and animated</strong> UIs that deliver smooth user interaction.
+  🛠️ Specialized in building <strong>clean, responsive, and animated</strong> UIs that delivers smooth user interaction.
 </p>
 <p >
   🌱 Currently building full-stack apps using <strong>Next.js, TypeScript, TailwindCSS, React, Node.js,  PostgreSQL, MongoDB</strong>, and <strong>REST/GraphQL APIs</strong>.
