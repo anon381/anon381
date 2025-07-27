@@ -10,7 +10,13 @@
 </p>
 
 ---
-<h2 align="center">🚀 A<span>&#8203;</span>b<span>&#8203;</span>o<span>&#8203;</span>u<span>&#8203;</span>t<span>&#8203;</span> M<span>&#8203;</span>e</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=006400&center=true&vCenter=true&width=220&lines=About+Me" alt="Typing SVG" />
+</p>
+
+
+
+
 
 
 <p >
