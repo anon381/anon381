@@ -148,11 +148,8 @@
 📧 Telegram: [@Anonymous_l_y](https://t.me/Anonymous_l_y)
 ------------------------------------
 📂 Portfolio: [Coming Soon]  
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer"/>
 </p>
 
-> _Thanks for visiting! Let's build legendary apps together._ 🚀
+> _Thanks for visiting! Let's build legacy together._ 🚀
