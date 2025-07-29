@@ -105,14 +105,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
- 🏆 GitHub Trophies
-<p align="center">
+
+
+
+ 🏆 GitHub Trophies</p>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=anon381&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=anon381&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</p>
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anon381&show_icons=true&count_private=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&theme=tokyonight" height="160"/>
