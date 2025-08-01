@@ -11,11 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=006400&center=true&vCenter=true&width=220&lines=About+Me" alt="Typing SVG" />
 </p>
 
-
-
-
-
-
 <p >
   🎯 Passionate <strong>Full-Stack Web Developer</strong> with a knack for turning ideas into interactive, scalable web experiences.
 </p>
