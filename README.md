@@ -112,13 +112,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-
-
-
-
-
-
-
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=onedark)](https://git.io/streak-stats)
 
 
 ---
