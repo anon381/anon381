@@ -90,7 +90,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anon381&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ⏱️ **Last Commit:**  
-![GitHub last commit](https://img.shields.io/github/last-commit/anon381/jslv1?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/anon381/anon381?style=for-the-badge)
 
 ---
 
