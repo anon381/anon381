@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm <span style="color:#38BDF8">Yabets Maregn</span></h1>
+<h1 align="center">Hi there, 👋 I'm <span style="color:#38BDF8">Yabets Maregn</span></h1>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
 </p>
