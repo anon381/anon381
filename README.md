@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS"/>
 </p>
 
----
+--
 
 ### 🛠️ Backend
 <p align="left">
@@ -84,42 +84,65 @@
 ---
 
 ## 📦 Latest GitHub Activity
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=anon381&theme=react-dark&hide_border=true"
+      alt="GitHub Activity Graph"
+      width="900"
+    />
+  </a>
+</p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anon381&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ⏱️ **Last Commit:**  
 ![GitHub last commit](https://img.shields.io/github/last-commit/anon381/anon381?style=for-the-badge)
 
 ---
-
-## 📊 GitHub Stats
-
-
-
- 🏆 GitHub Trophies</p>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=anon381&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anon381&show_icons=true&count_private=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&theme=tokyonight" height="160"/>
+<p align="center" style=" font-weight: bold; margin: 0;">
+  📊 GitHub Stats
 </p>
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=onedark)](https://git.io/streak-stats)
+---
+<p align="center" style=" font-weight: bold; margin: 0;">
+  🏆 GitHub Trophies
+</p>
+ 
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=anon381&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anon381&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFFFF0&text_color=FFFFF0&icon_color=1E90FF" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&bg_color=0D1117&title_color=FFFFF0&text_color=FFFFF0&icon_color=1E90FF" height="160"/>
+</p>
+
+
+<p align="center">
+  🔥 GitHub Streak
+</p>
+
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=anon381&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=FFFFF0&sideLabels=FFFFF0&dates=FFFFF0&sideNums=FFFFF0&currStreakNum=FFFFF0&stroke=1E90FF" alt="GitHub Streak"/>
+  </a>
+</p>
 
 
 ---
 
 ## 🧠 Coding Profiles
 
-### 📘 LeetCode Stats  and Codeforces Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/anonized?theme=dark&font=Fira+Code&ext=contest) 
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=anonized&theme=dracula)](https://codeforces.com/profile/anonized)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anonized?theme=dark&bg_color=0D1117&font=Fira+Code&ext=contest&ext_color=1E90FF&ext_opacity=100&font_color=FFFFF0" height="200" alt="LeetCode Stats"/>
+  <a href="https://codeforces.com/profile/anonized">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=anonized&theme=github_dark&title_color=FFFFF0&icon_color=1E90FF&text_color=FFFFF0&bg_color=0D1117" height="200" alt="Codeforces Stats"/>
+  </a>
+</p>
 
 
 
