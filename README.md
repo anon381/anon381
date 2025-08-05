@@ -33,7 +33,6 @@
 
 <div style="max-width: 920px; margin: auto; color: #FFFFF0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-  
 
   <div class="tech-category">
     <h3>🎨 Frontend</h3>
