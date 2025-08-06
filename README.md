@@ -154,9 +154,10 @@
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=anon381&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=FFFFF0&sideLabels=FFFFF0&dates=FFFFF0&sideNums=FFFFF0&currStreakNum=FFFFF0&stroke=1E90FF" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anon381&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=FFFFF0&sideLabels=FFFFF0&dates=FFFFF0&sideNums=FFFFF0&currStreakNum=FFFFF0&stroke=1E90FF" alt="GitHub Streak" />
   </a>
 </p>
+
 
 
 ---
