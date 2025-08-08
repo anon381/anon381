@@ -111,15 +111,8 @@
 ---
 
 ## 📦 Latest GitHub Activity
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=anon381&theme=react-dark&hide_border=true"
-      alt="GitHub Activity Graph"
-      width="900"
-    />
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anon381&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true" />
+
 
 ⏱️ **Last Commit:**  
 ![GitHub last commit](https://img.shields.io/github/last-commit/anon381/anon381?style=for-the-badge)
@@ -156,6 +149,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=anon381&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=FFFFF0&sideLabels=FFFFF0&dates=FFFFF0&sideNums=FFFFF0&currStreakNum=FFFFF0&stroke=1E90FF" alt="GitHub Streak" />
   </a>
 </p>
+
+
+
 
 
 
