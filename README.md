@@ -148,7 +148,7 @@
 
 
 <p align="center">
-  🔥 GitHub Streak
+  🔥 GitHub-Streak
 </p>
 
 <p align="center">
