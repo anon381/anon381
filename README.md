@@ -103,10 +103,10 @@
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
 | **[JSL Church Website V1]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://jsl-evvu.vercel.app/) |
+| **[Kidus production]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
 | **[Goodreads PHP Backend]** | PHP, MySQL | [GitHub Repo](https://github.com/anon381/goodreads-php-backend) |
 | **[New Bookstore]** | PHP, MySQL | [GitHub Repo](https://github.com/anon381/new_bookstore-main) |
 | **[IP-1 Project]** | Full Stack Book Manager | [GitHub Repo](https://github.com/anon381/IP-1-Project) |
-| **[JSL Website V2 (WIP)]** | trial home page landing with Next.js, TS, Tailwind, Motion | [Live Site](https://trial-jsl.vercel.app/) |
 
 ---
 
