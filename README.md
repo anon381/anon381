@@ -28,7 +28,7 @@
 
 
 <p align="center" style="background: linear-gradient(90deg, #0D1117, #1E90FF); padding: 18px 0; border-radius: 12px; color: #FFFFF0; font-weight: 700; font-size: 2.4em; margin-bottom: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  🧰 Tech Stack
+  🧰 Tech-Stack
 </p>
 
 <div style="max-width: 920px; margin: auto; color: #FFFFF0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
@@ -98,7 +98,7 @@
 
 
 ---
-## 🌍 Project Highlights 
+## 🌍 Project-Highlights 
 
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
