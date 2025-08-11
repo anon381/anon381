@@ -126,9 +126,9 @@
 ### 👤 Solo Projects
 | 🚀 Project           | 🔧 Stack                     | 👁️ View                                              |
 |---------------------|-----------------------------|------------------------------------------------------|
+| **[Movie Reviewer]**        | React, Vite, PostgreSQL, Supabase backend | [Live Site](https://movie-search-app-rho-azure.vercel.app/)      |
 | **[Github-Profile-Viewer]** | React, Vite, Tailwind       | [Live Site](https://github-profile-viewer-phi-lemon.vercel.app/) |
 | **[New Bookstore]**         | PHP, MySQL                 | [GitHub Repo](https://github.com/anon381/new_bookstore-main)    |
-| **[Movie Reviewer]**        | React, Vite, PostgreSQL, Supabase backend | [Live Site](https://movie-search-app-rho-azure.vercel.app/)      |
 
 
 </td>
