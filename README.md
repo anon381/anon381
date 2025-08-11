@@ -106,7 +106,6 @@
 
   
 
-
 <div align="center">
 
 ## 🏆 Main Projects
@@ -114,6 +113,7 @@
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
 | **[JSL Church Website V1]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://jsl-evvu.vercel.app/) |
+
 ---
 
 ## 📦 Mini Projects
@@ -141,7 +141,16 @@
 </tr>
 </table>
 
+---
+
+## 🚧 Ongoing Projects
+
+| 🚀 Project | 🔧 Stack | 👁️ View |
+|-----------|----------|---------|
+| **[Kidus production]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
+
 </div>
+
 
 
 
