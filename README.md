@@ -114,20 +114,37 @@
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
 | **[JSL Church Website V1]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://jsl-evvu.vercel.app/) |
-| **[Kidus production (ongoing)]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
+| **[Kidus production]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
 
 ---
 
 ## 📦 Mini Projects
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 👤 Solo Projects
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
 | **[Github-Profile-Viewer]** | React, Vite, Tailwind | [Live Site](https://github-profile-viewer-phi-lemon.vercel.app/) |
-| **[Goodreads PHP Backend]** | PHP, MySQL | [GitHub Repo](https://github.com/anon381/goodreads-php-backend) |
 | **[New Bookstore]** | PHP, MySQL | [GitHub Repo](https://github.com/anon381/new_bookstore-main) |
+
+</td>
+<td valign="top" width="50%">
+
+### 🤝 Group Projects
+| 🚀 Project | 🔧 Stack | 👁️ View |
+|-----------|----------|---------|
+| **[Goodreads PHP Backend]** | PHP, MySQL | [GitHub Repo](https://github.com/anon381/goodreads-php-backend) |
 | **[IP-1 Project]** | Full Stack Book Manager | [GitHub Repo](https://github.com/anon381/IP-1-Project) |
 
+</td>
+</tr>
+</table>
+
 </div>
+
 
 
 ---
