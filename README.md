@@ -193,7 +193,7 @@
 ------------------------------------
 📂 Portfolio: [Coming Soon]  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
 </p>
 
 > _Thanks for visiting! Let's build legacy together._ 🚀
