@@ -30,67 +30,71 @@
 <p align="center" style="background: linear-gradient(90deg, #0D1117, #1E90FF); padding: 18px 0; border-radius: 12px; color: #FFFFF0; font-weight: 700; font-size: 2.4em; margin-bottom: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   🧰 Tech-Stack
 </p>
-<div style="max-width: 920px; margin: auto; color: #FFFFF0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <table>
+<div style="max-width: 1100px; margin: auto; color: #FFFFF0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
+    <tr style="background-color: #1a1a1a;">
+      <th style="padding: 15px; text-align: left; font-size: 1.1em;">Category</th>
+      <th style="padding: 15px; text-align: left; font-size: 1.1em;">Technologies</th>
+    </tr>
     <tr>
-      <th>🎨 Frontend</th>
-      <td>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" alt="Next.js" />
-        <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS" />
+      <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b;">🎨 Frontend</td>
+      <td style="padding: 20px; background-color: #2b2b2b;">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+        <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" />
+        <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
       </td>
     </tr>
     <tr>
-      <th>🛠️ Backend</th>
-      <td>
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
-        <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" alt="Express.js" />
-        <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php" alt="PHP" />
-        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel" />
+      <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b;">🛠️ Backend</td>
+      <td style="padding: 20px; background-color: #2b2b2b;">
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
+        <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express" />
+        <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php" />
+        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel" />
       </td>
     </tr>
     <tr>
-      <th>🗄️ Database</th>
-      <td>
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
+      <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b;">🗄️ Database</td>
+      <td style="padding: 20px; background-color: #2b2b2b;">
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql" />
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
       </td>
     </tr>
     <tr>
-      <th>☁️ Cloud & Hosting</th>
-      <td>
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS" />
-        <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku" alt="Heroku" />
-        <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify" alt="Netlify" />
-        <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel" alt="Vercel" />
+      <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b;">☁️ Cloud & Hosting</td>
+      <td style="padding: 20px; background-color: #2b2b2b;">
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
+        <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku" />
+        <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify" />
+        <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel" />
       </td>
     </tr>
     <tr>
-      <th>🔌 Backend-as-a-Service (BaaS)</th>
-      <td>
-        <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+      <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b;">🔌 Backend-as-a-Service (BaaS)</td>
+      <td style="padding: 20px; background-color: #2b2b2b;">
+        <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
       </td>
     </tr>
     <tr>
-      <th>🧪 Testing & QA</th>
-      <td>
-        <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest" alt="Jest" />
-        <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress" alt="Cypress" />
-        <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium" alt="Selenium" />
+      <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b;">🧪 Testing & QA</td>
+      <td style="padding: 20px; background-color: #2b2b2b;">
+        <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest" />
+        <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress" />
+        <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium" />
       </td>
     </tr>
     <tr>
-      <th>🎨 Design & Prototyping</th>
-      <td>
-        <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma" alt="Figma" />
-        <img src="https://img.shields.io/badge/-AdobeXD-FF61F6?style=for-the-badge&logo=adobexd" alt="Adobe XD" />
-        <img src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch" alt="Sketch" />
+      <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b;">🎨 Design & Prototyping</td>
+      <td style="padding: 20px; background-color: #2b2b2b;">
+        <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma" />
+        <img src="https://img.shields.io/badge/-AdobeXD-FF61F6?style=for-the-badge&logo=adobexd" />
+        <img src="https://img.shields.io/badge/-Sketch-F7B500?style=for-the-badge&logo=sketch" />
       </td>
     </tr>
   </table>
