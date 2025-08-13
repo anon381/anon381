@@ -120,7 +120,13 @@
 | **[JSL Church Website V1]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://jsl-evvu.vercel.app/) |
 
 ---
+## 🚧 Ongoing Projects
 
+| 🚀 Project | 🔧 Stack | 👁️ View |
+|-----------|----------|---------|
+| **[Kidus production]** | Next.js, Typescript, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
+
+---
 ## 📦 Mini Projects
 
 <table>
@@ -151,11 +157,6 @@
 
 ---
 
-## 🚧 Ongoing Projects
-
-| 🚀 Project | 🔧 Stack | 👁️ View |
-|-----------|----------|---------|
-| **[Kidus production]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
 
 </div>
 
