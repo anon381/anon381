@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;">
-       Exploring the world of <strong>Machine Learning, Artificial Intelligence, and Data Analytics</strong> to add intelligent, data-driven features to my projects.
+       Exploring the world of <strong>Machine Learning(ML), Artificial Intelligence(AI), and Data Analytics(DA)</strong> to add intelligent, data-driven features to my projects.
     </td>
   </tr>
   <tr>
