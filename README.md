@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, 👋 I'm <span style="color:#38BDF8">Yabets Maregn</span></h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="400" alt="coding gif" />
 </p>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yabets+%2F+Anon.;Frontend+Developer;Backend+Developer;Database+Management;Fullstack+Web+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yabets+%2F+Anon.;Frontend+Developer;Backend+Developer;Database+Management;Fullstack+Web+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
