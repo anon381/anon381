@@ -14,20 +14,22 @@
 </p>
 
 <p>
-  🎯 Passionate <strong>Full-Stack Web Developer</strong> with a knack for turning ideas into interactive, scalable web experiences.
+  🎯 Passionate <strong>Full-Stack Web Developer</strong> with a proven track record of creating interactive, scalable web applications that deliver seamless user experiences.
 </p>
-<p >
-  🛠️ Specialized in building <strong>clean, responsive, and animated</strong> UIs that delivers smooth user interaction.
+
+<p>
+  🌱 Actively working with <strong>Next.js, TypeScript, TailwindCSS, React, Node.js, PostgreSQL, MongoDB</strong>, and <strong>REST/GraphQL APIs</strong> to build modern, full-stack applications.
 </p>
-<p >
-  🌱 Currently building full-stack apps using <strong>Next.js, TypeScript, TailwindCSS, React, Node.js,  PostgreSQL, MongoDB</strong>, and <strong>REST/GraphQL APIs</strong>.
+<p>
+  📦 Proficient in handling <strong>authentication (Auth.js, Clerk, Firebase, Supabase)</strong>, <strong>state management (Zustand, React Query)</strong>, and optimizing performance for high-quality user experiences.
 </p>
-<p >
-  📦 Also exploring <strong>authentication (Auth.js, Clerk, Firebase)</strong>, <strong>state management (Zustand,  React Query)</strong>, and performance optimization techniques.
+<p>
+  🤖 Exploring the world of <strong>Machine Learning, Artificial Intelligence, and Data Analytics</strong> to add intelligent, data-driven features to my projects.
 </p>
-<p >
-  📈 Always learning, always shipping.
+<p>
+  📈 Continuously learning, iterating, and shipping solutions to push the boundaries of what's possible.
 </p>
+
 
 ---
 ---
