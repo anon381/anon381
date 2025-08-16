@@ -60,10 +60,8 @@
   </tr>
 </table>
 
----
 
 
----
 ---
 
 <p align="center" style="background: linear-gradient(90deg, #0D1117, #1E90FF); padding: 18px 0; border-radius: 12px; color: #FFFFF0; font-weight: 700; font-size: 2.4em; margin-bottom: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
@@ -71,7 +69,7 @@
 </p>
 
 ---
----
+
 <div style="max-width: 1100px; margin: auto; color: #FFFFF0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <table style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
     <tr style="background-color: #1a1a1a;">
