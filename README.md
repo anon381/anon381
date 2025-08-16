@@ -12,23 +12,34 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=220&lines=About+Me" alt="Typing SVG" />
 </p>
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      🎯 <strong>Passionate Full-Stack Web Developer</strong> with a proven track record of creating interactive, scalable web applications that deliver seamless user experiences.
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      🌱 Actively working with <strong>Next.js, TypeScript, TailwindCSS, React, Node.js, PostgreSQL, MongoDB</strong>, and <strong>REST/GraphQL APIs</strong> to build modern, full-stack applications.
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      📦 Proficient in handling <strong>authentication (Auth.js, Clerk, Firebase, Supabase)</strong>, <strong>state management (Zustand, React Query)</strong>, and optimizing performance for high-quality user experiences.
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      🤖 Exploring the world of <strong>Machine Learning, Artificial Intelligence, and Data Analytics</strong> to add intelligent, data-driven features to my projects.
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;">
+      📈 Continuously learning, iterating, and shipping solutions to push the boundaries of what's possible.
+    </td>
+  </tr>
+</table>
 
-<p>
-  🎯 Passionate <strong>Full-Stack Web Developer</strong> with a proven track record of creating interactive, scalable web applications that deliver seamless user experiences.
-</p>
-
-<p>
-  🌱 Actively working with <strong>Next.js, TypeScript, TailwindCSS, React, Node.js, PostgreSQL, MongoDB</strong>, and <strong>REST/GraphQL APIs</strong> to build modern, full-stack applications.
-</p>
-<p>
-  📦 Proficient in handling <strong>authentication (Auth.js, Clerk, Firebase, Supabase)</strong>, <strong>state management (Zustand, React Query)</strong>, and optimizing performance for high-quality user experiences.
-</p>
-<p>
-  🤖 Exploring the world of <strong>Machine Learning, Artificial Intelligence, and Data Analytics</strong> to add intelligent, data-driven features to my projects.
-</p>
-<p>
-  📈 Continuously learning, iterating, and shipping solutions to push the boundaries of what's possible.
-</p>
 
 
 ---
