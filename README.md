@@ -152,7 +152,7 @@
 
 <div align="center">
 
-## 🏆 Main Projects
+## 🏆 Main-Projects
 
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
@@ -160,13 +160,13 @@
 
 ---
 
-## 📦 Mini Projects
+## 📦 Mini-Projects
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 👤 Solo Projects
+### 👤 Solo-Projects
 | 🚀 Project           | 🔧 Stack                                 | 👁️ View                                                           |
 |---------------------|-----------------------------------------|-------------------------------------------------------------------|
 | **[Movie Reviewer]**        | React, Vite, PostgreSQL, Supabase backend | [Live Site](https://movie-search-app-rho-azure.vercel.app/)       |
@@ -178,7 +178,7 @@
 </td>
 <td valign="top" width="50%">
 
-### 🤝 Group Projects
+### 🤝 Group-Projects
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
 | **[Goodreads PHP Backend]** | PHP, MySQL | [GitHub Repo](https://github.com/anon381/goodreads-php-backend) |
@@ -189,7 +189,7 @@
 </table>
 
 ---
-## 🚧 Ongoing Projects
+## 🚧 Ongoing-Projects
 
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
@@ -198,7 +198,6 @@
 ---
 
 </div>
-
 
 
 
