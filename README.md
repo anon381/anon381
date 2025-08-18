@@ -164,7 +164,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 ### 👤 Solo-Projects
 | 🚀 Project                  | 🔧 Stack                                     | 👁️ View                                                           |
