@@ -7,8 +7,6 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yabets+%2F+Anon.;Frontend+Developer;Backend+Developer;Database+Management;Fullstack+Web+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
-
-
 ---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=220&lines=About+Me" alt="Typing SVG" />
