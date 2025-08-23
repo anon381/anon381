@@ -231,32 +231,33 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anon381&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFFFF0&text_color=FFFFF0&icon_color=1E90FF" height="160"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anon381&show_icons=true&count_private=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=1E90FF" height="160"/>
+
+  <!-- Top Languages -->
   <a href="https://github.com/anon381" target="_blank" style="display:inline-block;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&bg_color=0D1117&title_color=FFFFF0&text_color=FFFFF0&icon_color=1E90FF" 
-    height="160" 
-    style="border-radius:10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
-    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(30,144,255,0.6)';"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
-  />
-</a>
-
-
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=1E90FF" 
+      height="160" 
+      style="border-radius:10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(30,144,255,0.6)';"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
+    />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  🔥 GitHub-Streak
+  🔥 GitHub Streak
 </p>
-
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=anon381&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=FFFFF0&sideLabels=FFFFF0&dates=FFFFF0&sideNums=FFFFF0&currStreakNum=FFFFF0&stroke=1E90FF" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=anon381&background=0D1117&ring=1E90FF&fire=00CED1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=00CED1&stroke=1E90FF" alt="GitHub Streak" />
   </a>
 </p>
+
 
 ---
 
