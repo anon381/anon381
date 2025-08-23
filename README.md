@@ -1,4 +1,10 @@
-<h1 align="center">Hi there, 👋 I'm <span style="color:#38BDF8">Yabets Maregn</span></h1>
+<h1 align="center">
+  Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" height="40"/> I'm 
+  <span style="background: linear-gradient(90deg, #38BDF8, #A78BFA, #F472B6); -webkit-background-clip: text; color: transparent;">
+    Yabets Maregn
+  </span>
+</h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="400" alt="coding gif" />
 </p>
