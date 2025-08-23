@@ -263,10 +263,12 @@
 
 ## 🧠 Coding Profiles
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/anonized?theme=dark&bg_color=0D1117&font=Fira+Code&ext=contest&ext_color=1E90FF&ext_opacity=100&font_color=FFFFF0" height="200" alt="LeetCode Stats"/>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=anonized&theme=github_dark&title_color=FFFFF0&icon_color=1E90FF&text_color=FFFFF0&bg_color=0D1117" height="200" alt="Codeforces Stats"/> 
-</p>
+
+<p align="center"> <img src="https://leetcard.jacoblin.cool/anonized?theme=dark&bg_color=0D1117&font=Fira+Code&ext=contest&ext_color=1E90FF&ext_opacity=100&font_color=FFFFF0" height="200" alt="LeetCode Stats"/> <img src="https://codeforces-readme-stats.vercel.app/api/card?username=anonized&theme=github_dark&title_color=FFFFF0&icon_color=1E90FF&text_color=FFFFF0&bg_color=0D1117" height="200" alt="Codeforces Stats"/> </p>
+
+
+
+
 
 ---
 
