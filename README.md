@@ -221,12 +221,12 @@
 <p align="center" style=" font-weight: bold; margin: 0;">
   🏆 GitHub Trophies
 </p>
- 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=anon381&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
   </a>
-</p>
+</p> 
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anon381&show_icons=true&count_private=true&bg_color=0D1117&title_color=FFFFF0&text_color=FFFFF0&icon_color=1E90FF" height="160"/>
