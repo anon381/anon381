@@ -227,7 +227,7 @@
 ---
 
 
-<!--
+
 <p align="center" style=" font-weight: bold; margin: 0;">
   🏆 GitHub Trophies
 </p>
@@ -237,7 +237,7 @@
   </a>
 </p>
 
--->
+
 
 
 
