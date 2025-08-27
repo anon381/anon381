@@ -234,13 +234,13 @@
 
 <p align="center" style=" font-weight: bold; margin: 0;">
   🏆 GitHub Trophies
-<!-- </p>
+</p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=anon381&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
   </a>
 </p>
- -->
+
 
 
 
@@ -273,7 +273,6 @@
     <img src="https://streak-stats.demolab.com?user=anon381&background=0D1117&ring=1E90FF&fire=00CED1&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=00CED1&stroke=1E90FF" alt="GitHub Streak" />
   </a>
 </p>
-
 
 ---
 
