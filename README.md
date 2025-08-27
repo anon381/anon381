@@ -85,9 +85,9 @@
     <tr>
       <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b;">🎨 Frontend</td>
       <td style="padding: 20px; background-color: #2b2b2b;">
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-        <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
         <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" />
+         <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" />
       </td>
     </tr>
     <tr>
