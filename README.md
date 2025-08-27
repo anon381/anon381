@@ -76,17 +76,17 @@
 
 ---
 
-<div style="max-width: 1100px; margin: auto; color: #FFFFF0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <table style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
+<div style="max-width: 1100px; margin: auto; color: #FFFFF0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center;">
+  <table style="width: 100%; margin: auto; border-collapse: separate; border-spacing: 0 15px;">
     <tr style="background-color: #1a1a1a;">
-      <th style="padding: 15px; text-align: left; font-size: 1.1em;">Category</th>
-      <th style="padding: 15px; text-align: left; font-size: 1.1em;">Technologies</th>
+      <th style="padding: 15px; text-align: center; font-size: 1.1em;">Category</th>
+      <th style="padding: 15px; text-align: center; font-size: 1.1em;">Technologies</th>
     </tr>
     <tr>
-      <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b;">🎨 Frontend</td>
+      <td style="padding: 20px; font-weight: bold; background-color: #2b2b2b; text-align: center;">🎨 Frontend</td>
       <td style="padding: 20px; background-color: #2b2b2b;">
         <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" />
-         <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
+        <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react" />
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" />
       </td>
     </tr>
