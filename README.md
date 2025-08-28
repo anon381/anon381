@@ -221,7 +221,7 @@
 
 
 ⏱️ **Last Commit:**  
-![GitHub last commit](https://img.shields.io/github/last-commit/anon381/anon381?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/anon381/leetcode?style=for-the-badge)
 
 ---
 <p align="center" style=" font-weight: bold; margin: 0;">
