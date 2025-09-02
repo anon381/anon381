@@ -1,7 +1,7 @@
 <h1 align="center">
-  Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" height="40"/> I'm 
+ < Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" height="40"/> I'm 
   <span style="background: linear-gradient(90deg, #38BDF8, #A78BFA, #F472B6); -webkit-background-clip: text; color: transparent;">
-    Yabets Maregn
+    Yabets Maregn />
   </span>
 </h1>
 
