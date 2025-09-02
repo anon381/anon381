@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;">
-       <strong>Passionate Full-Stack Web Developer</strong> with a proven track record of creating interactive, scalable web applications that deliver seamless user experiences.
+       <strong> Passionate Full-Stack Web Developer</strong> with a proven track record of creating interactive, scalable web applications that deliver seamless user experiences.
     </td>
   </tr>
   <tr>
@@ -288,7 +288,7 @@
 
 ## 📫 Contact-Me
 
-📧 Telegram: [@Anonymous_l_y](https://t.me/Anonymous_l_y)
+>📧 Telegram: [@Anonymous_l_y](https://t.me/Anonymous_l_y)
 ------------------------------------
 📂 Portfolio: [Coming-Soon]  
 <p align="center">
