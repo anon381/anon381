@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=220&lines=About+Me" alt="Typing SVG" />
 </p>
-<table style="width: 100%; border-collapse: collapse; text-align: left;">
+<!-- <table style="width: 100%; border-collapse: collapse; text-align: left;">
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;">
     </td>
@@ -64,7 +64,18 @@
     </td>
   </tr>
     
-</table>
+</table> -->
+
+<div align="center">
+
+> Hi, I'm **Yabets Maregn** 👋  
+> 22 years old, 4th-year **Software Engineering** student at Addis Ababa Science and Technology University: AASTU
+> 
+> Full-Stack Web Developer | ML & AI Enthusiast  
+> Continuously building modern, interactive web applications and exploring intelligent, data-driven solutions.
+
+  
+</div>
 
 
 
