@@ -139,14 +139,7 @@
     </td>
   </tr>
 
-  <tr>
-    <td><b>🧪 Testing & QA</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest" />
-      <img src="https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress" />
-      <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium" />
-    </td>
-  </tr>
+  
 
   <tr>
     <td><b>🎨 Design</b></td>
