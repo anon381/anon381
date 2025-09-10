@@ -256,14 +256,15 @@
 
   <!-- Top Languages -->
   <a href="https://github.com/anon381" target="_blank" style="display:inline-block;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=1E90FF" 
-      height="160" 
-      style="border-radius:10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(30,144,255,0.6)';"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anon381&layout=compact&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=1E90FF" 
+    height="160" 
+    style="border-radius:10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(30,144,255,0.6)';"
+    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none';"
+  />
+</a>
+
 </p>
 
 ---
