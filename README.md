@@ -275,14 +275,19 @@
   🔥 GitHub Streak
 </p>
 
+
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img 
-      src="https://streak-stats.demolab.com?user=anon381&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=00BFFF&stroke=00BFFF" 
+      src="https://streak-stats.demolab.com?user=anon381&background=0D1117&ring=33CCFF&fire=33CCFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=33CCFF&stroke=33CCFF" 
       alt="GitHub Streak" 
     />
   </a>
 </p>
+
+
+
+
 
 
 ---
