@@ -9,7 +9,7 @@
   <a href="https://user-badge.committers.top/ethiopia/anon381">
     <img src="https://user-badge.committers.top/ethiopia/anon381.svg" alt="committers.top badge"/>
   </a>
-  <strong>Top Committer in Ethiopia</strong>
+  <strong> One of the Top GitHub Committers in Ethiopia 🇪🇹 </strong>
 </p>
 
 
