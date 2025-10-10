@@ -5,7 +5,13 @@
   </span>
 </h1>
 
-<!-- [![committers.top badge](https://user-badge.committers.top/ethiopia/anon381.svg)](https://user-badge.committers.top/ethiopia/anon381) -->
+<p align="center">
+  <a href="https://user-badge.committers.top/ethiopia/anon381">
+    <img src="https://user-badge.committers.top/ethiopia/anon381.svg" alt="committers.top badge"/>
+  </a>
+  <strong>Top Committer in Ethiopia</strong>
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="400" alt="coding gif" />
