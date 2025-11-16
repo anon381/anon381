@@ -5,16 +5,14 @@
   </span>
 </h1>
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://user-badge.committers.top/ethiopia/anon381">
     <img src="https://user-badge.committers.top/ethiopia/anon381.svg" alt="committers.top badge"/>
   </a>
   <strong> One of the Top GitHub Committers in Ethiopia 🇪🇹 </strong>
 </p>
 
-<a href="https://user-badge.committers.top/ethiopia/anon381" target="_blank" rel="noopener noreferrer">
-    <img src="https://user-badge.committers.top/ethiopia/anon381.svg" alt="committers.top badge" height="28" />
-  </a> -->
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="400" alt="coding gif" />
