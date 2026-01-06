@@ -40,6 +40,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">
     </td>
   </tr>
+  
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;">
        Actively working with <strong>Next.js, TypeScript, TailwindCSS, React, Node.js, PostgreSQL, MongoDB</strong>, and <strong>REST/GraphQL APIs</strong> to build modern, full-stack applications.
