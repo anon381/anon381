@@ -195,7 +195,7 @@
 |-----------------------------|---------------------------------------------|-------------------------------------------------------------------|
 | **[Movie Reviewer]**        | React, Vite, PostgreSQL, Supabase backend   | [Live Site](https://movie-search-app-rho-azure.vercel.app/)       |
 | **[Github-Profile-Viewer]** | React, Vite, Tailwind                       | [Live Site](https://github-profile-viewer-phi-lemon.vercel.app/)  |
-| **[To-Do List]**            | React, Vite, Node.js, Express.js            | [GitHub Repo](https://github.com/anon381/to-do-list)              |
+| **[TaskNova]**            | React, Vite, Node.js, Express.js            | [Live Site](https://to-do-list-eight-ebon.vercel.app/)              |
 | **[Typing Speed Test]**     | TypeScript, Node.js, React, Prisma, Express | [GitHub Repo](https://github.com/anon381/Typing-Speed-Test)       |
 | **[Expense Tracker]**       | React, Vite, Node.js, Express.js, Auth.js   | [GitHub Repo](https://github.com/anon381/Expense-Tracker)         |
 | **[New Bookstore]**         | PHP, MySQL, html, css, js , bootstrap       | [GitHub Repo](https://github.com/anon381/new_bookstore-main)      |
