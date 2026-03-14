@@ -196,9 +196,9 @@
 | **[Movie Reviewer]**        | React, Vite, PostgreSQL, Supabase backend   | [Live Site](https://movie-search-app-rho-azure.vercel.app/)       |
 | **[Github-Profile-Viewer]** | React, Vite, Tailwind                       | [Live Site](https://github-profile-viewer-phi-lemon.vercel.app/)  |
 | **[TaskNova]**            | React, Vite, Node.js, Mongodb            | [Live Site](https://to-do-list-eight-ebon.vercel.app/)              |
-| **[TUrbo Type]**     | TypeScript, Node.js, React, Mongodb | [Live Site](https://turbotype-omega.vercel.app/)       |
+| **[Turbo Type]**     | TypeScript, Node.js, React, Mongodb | [Live Site](https://turbotype-omega.vercel.app/)       |
 | **[Expense Tracker]**       | React, Vite, Node.js, Express.js, Auth.js   | [GitHub Repo](https://github.com/anon381/Expense-Tracker)         |
-| **[New Bookstore]**         | PHP, MySQL, html, css, js , bootstrap       | [GitHub Repo](https://github.com/anon381/new_bookstore-main)      |
+| **[New Bookstore]**         | PHP, MySQL, js, bootstrap       | [GitHub Repo](https://github.com/anon381/new_bookstore-main)      |
 
 
 </td>
