@@ -180,7 +180,13 @@
 
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
-| **[JSL Church Website V1]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://jsl-evvu.vercel.app/) |
+| **[hospital-management-system]** | Next.js, TS, Tailwind,  Supabase backend | [Live Site](https://hms-eight-gold.vercel.app/) |
+| **[Church Website]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://jsl-evvu.vercel.app/) |
+| **[hotel Management System]** | Next.js,  Supabase backend,TS, Tailwind  | [Live Site](https://tableza.vercel.app/) |
+| **[Digital-Art-Gallery-Portfolio]** | Next.js,React, Tailwind css | [Live Site](https://dagil-arts.vercel.app/) |
+| **[Production-Portfolio-Hub]** | Next.js, Typescript, React.js Tailwind, shadcn/ui | [Live Site](https://sami-production.vercel.app/) |
+
+
 
 ---
 
@@ -220,7 +226,6 @@
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
 | **[Kidus production]** | Next.js, Typescript, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
-| **[Sami production]** | Next.js, Typescript, React.js Tailwind, shadcn/ui | [Live Site](https://sami-production.vercel.app/) |
 
 
 ---
