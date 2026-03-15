@@ -200,12 +200,11 @@
 | 🚀 Project                  | 🔧 Stack                                     | 👁️ View                                                           |
 |-----------------------------|---------------------------------------------|-------------------------------------------------------------------|
 | **[Movie Reviewer]**        | React, Vite, PostgreSQL, Supabase backend   | [Live Site](https://movie-search-app-rho-azure.vercel.app/)       |
-| **[Solar-Powered Smart Backpack System]**     | TypeScript, Node.js, Google APIs, Mongodb | [Live Site](https://solar-power-hub.vercel.app/)       |
+| **[Solar-Powered Smart Backpack System]**   | TypeScript, Node.js, Google APIs, Mongodb | [Live Site](https://solar-power-hub.vercel.app/)       |
 | **[Github-Profile-Viewer]** | React, Vite, Tailwind                       | [Live Site](https://github-profile-viewer-phi-lemon.vercel.app/)  |
 | **[TaskNova]**            | React, Vite, Node.js, Mongodb            | [Live Site](https://to-do-list-eight-ebon.vercel.app/)              |
 | **[Turbo Type]**     | TypeScript, Node.js, React, Mongodb | [Live Site](https://turbotype-omega.vercel.app/)       |
 | **[student-skill-passport]**  | React, Vite, Node.js, Express.js, Auth.js   | [Live Site](https://student-skill-passport.vercel.app/)         |
-| **[New Bookstore]**         | PHP, MySQL, js, bootstrap       | [GitHub Repo](https://github.com/anon381/new_bookstore-main)      |
 
 
 </td>
