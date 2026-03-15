@@ -181,6 +181,7 @@
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |------------|----------|----------|
 | **Hotel Management System** | Next.js, Supabase Backend, TypeScript, Tailwind | [Live Site](https://tableza.vercel.app/) |
+| **Medical Referral System** | Next.js, Django, TypeScript, Tailwind | [Live Site](https://ca-ts-group-2-7jx4.vercel.app/) |
 | **Digital Art Gallery Portfolio** | Next.js, React, Tailwind CSS | [Live Site](https://dagil-arts.vercel.app/) |
 | **Production Portfolio Hub** | Next.js, TypeScript, React, Tailwind, shadcn/ui | [Live Site](https://sami-production.vercel.app/) |
 | **Hospital Management System** | Next.js, TypeScript, Tailwind, Supabase Backend | [Live Site](https://hms-eight-gold.vercel.app/) |
@@ -323,7 +324,6 @@
 
 >📧 Telegram: [@Anonymous_l_y](https://t.me/Anonymous_l_y)
 ------------------------------------
-📂 Portfolio: [Coming-Soon]  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
 </p>
