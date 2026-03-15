@@ -220,7 +220,7 @@
 | 🚀 Project | 🔧 Stack | 👁️ View |
 |-----------|----------|---------|
 | **[Kidus production]** | Next.js, Typescript, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
-| **[Sami production]** | Next.js, Typescript, React.js Tailwind, shadcn/ui | [Live Site](https://v0-interactive-production-website.vercel.app/) |
+| **[Sami production]** | Next.js, Typescript, React.js Tailwind, shadcn/ui | [Live Site](https://sami-production.vercel.app/) |
 
 
 ---
