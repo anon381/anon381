@@ -179,14 +179,12 @@
 ## 🏆 Main Projects
 
 | 🚀 Project | 🔧 Stack | 👁️ View |
-|-----------|----------|---------|
-
-| **[Hotel Management System]** | Next.js,  Supabase backend,TS, Tailwind  | [Live Site](https://tableza.vercel.app/) |
-| **[Digital-Art-Gallery-Portfolio]** | Next.js,React, Tailwind css | [Live Site](https://dagil-arts.vercel.app/) |
-| **[Production-Portfolio-Hub]** | Next.js, Typescript, React.js Tailwind, shadcn/ui | [Live Site](https://sami-production.vercel.app/) |
-| **[Hospital-Management-System]** | Next.js, TS, Tailwind,  Supabase backend | [Live Site](https://hms-eight-gold.vercel.app/) |
-| **[Church Website]** | Next.js, TS, Tailwind, shadcn/ui | [Live Site](https://jsl-evvu.vercel.app/) |
-
+|------------|----------|----------|
+| **Hotel Management System** | Next.js, Supabase Backend, TypeScript, Tailwind | [Live Site](https://tableza.vercel.app/) |
+| **Digital Art Gallery Portfolio** | Next.js, React, Tailwind CSS | [Live Site](https://dagil-arts.vercel.app/) |
+| **Production Portfolio Hub** | Next.js, TypeScript, React, Tailwind, shadcn/ui | [Live Site](https://sami-production.vercel.app/) |
+| **Hospital Management System** | Next.js, TypeScript, Tailwind, Supabase Backend | [Live Site](https://hms-eight-gold.vercel.app/) |
+| **Church Website** | Next.js, TypeScript, Tailwind, shadcn/ui | [Live Site](https://jsl-evvu.vercel.app/) |
 
 
 ---
