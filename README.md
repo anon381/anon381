@@ -306,12 +306,6 @@
 ---
 
 <p align="center">
-  <a href="https://yabets-maregn.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
 </p>
 
