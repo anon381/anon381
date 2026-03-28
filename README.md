@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://yabets-maregn.vercel.app/" target="_blank">Visit my Portfolio — yabets-maregn.vercel.app</a>
+  <a href="https://yabets-maregn.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
@@ -304,7 +306,9 @@
 ---
 
 <p align="center">
-  <a href="https://yabets-maregn.vercel.app/" target="_blank">Portfolio — https://yabets-maregn.vercel.app/</a>
+  <a href="https://yabets-maregn.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
