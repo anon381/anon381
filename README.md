@@ -12,7 +12,9 @@
   <strong> One of the Top GitHub Committers in Ethiopia 🇪🇹 </strong>
 </p>
 
-
+<p align="center">
+  <a href="https://yabets-maregn.vercel.app/" target="_blank">Visit my Portfolio — yabets-maregn.vercel.app</a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width="400" alt="coding gif" />
@@ -23,6 +25,7 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&width=220&lines=About+Me" alt="Typing SVG" />
 </p>
@@ -78,15 +81,12 @@
 <div >
 
 > Hi, I'm **Yabets Maregn** 👋  
-> 22 years old, 4th-year **Software Engineering** student at Addis Ababa Science and Technology University -  AASTU
+> 22 years old, 4th-year **Software Engineering** student at Addis Ababa Science and Technology University - AASTU
 
 > Full-Stack Web Developer | ML & AI Enthusiast  
 > Continuously building modern, interactive web applications and exploring intelligent, data-driven solutions.
 
-  
 </div>
-
-
 
 ---
 
@@ -148,8 +148,6 @@
     </td>
   </tr>
 
-  
-
   <tr>
     <td><b>🎨 Design</b></td>
     <td>
@@ -162,9 +160,8 @@
 
 </div>
 
-
-
 ---
+
 <p align="center"> 
   
 ## 🌍 Project Highlights 
@@ -172,21 +169,19 @@
 </p>
 
 ---
-  
 
 <div align="center">
 
 ## 🏆 Main Projects
 
-| 🚀 Project | 🔧 Stack | 👁️ View |
-|------------|----------|----------|
-| **Hotel Management System** | Next.js, Supabase Backend, TypeScript, Tailwind | [Live Site](https://tableza.vercel.app/) |
-| **Medical Referral System** | Next.js, Django, TypeScript, Tailwind | [Live Site](https://ca-ts-group-2-7jx4.vercel.app/) |
-| **Digital Art Gallery Portfolio** | Next.js, React, Tailwind CSS | [Live Site](https://dagil-arts.vercel.app/) |
-| **Production Portfolio Hub** | Next.js, TypeScript, React, Tailwind, shadcn/ui | [Live Site](https://sami-production.vercel.app/) |
-| **Hospital Management System** | Next.js, TypeScript, Tailwind, Supabase Backend | [Live Site](https://hms-eight-gold.vercel.app/) |
-| **Church Website** | Next.js, TypeScript, Tailwind, shadcn/ui | [Live Site](https://jsl-evvu.vercel.app/) |
-
+| 🚀 Project                        | 🔧 Stack                                        | 👁️ View                                             |
+| --------------------------------- | ----------------------------------------------- | --------------------------------------------------- |
+| **Hotel Management System**       | Next.js, Supabase Backend, TypeScript, Tailwind | [Live Site](https://tableza.vercel.app/)            |
+| **Medical Referral System**       | Next.js, Django, TypeScript, Tailwind           | [Live Site](https://ca-ts-group-2-7jx4.vercel.app/) |
+| **Digital Art Gallery Portfolio** | Next.js, React, Tailwind CSS                    | [Live Site](https://dagil-arts.vercel.app/)         |
+| **Production Portfolio Hub**      | Next.js, TypeScript, React, Tailwind, shadcn/ui | [Live Site](https://sami-production.vercel.app/)    |
+| **Hospital Management System**    | Next.js, TypeScript, Tailwind, Supabase Backend | [Live Site](https://hms-eight-gold.vercel.app/)     |
+| **Church Website**                | Next.js, TypeScript, Tailwind, shadcn/ui        | [Live Site](https://jsl-evvu.vercel.app/)           |
 
 ---
 
@@ -197,41 +192,41 @@
 <td valign="top" width="40%">
 
 ### 👤 Solo-Projects
-| 🚀 Project                  | 🔧 Stack                                     | 👁️ View                                                           |
-|-----------------------------|---------------------------------------------|-------------------------------------------------------------------|
-| **[Movie Reviewer]**        | React, Vite, PostgreSQL, Supabase backend   | [Live Site](https://movie-search-app-rho-azure.vercel.app/)       |
-| **[Solar-Powered Smart Backpack System]**   | TypeScript, Node.js, Google APIs, Mongodb | [Live Site](https://solar-power-hub.vercel.app/)       |
-| **[Github-Profile-Viewer]** | React, Vite, Tailwind                       | [Live Site](https://github-profile-viewer-phi-lemon.vercel.app/)  |
-| **[TaskNova]**            | React, Vite, Node.js, Mongodb            | [Live Site](https://to-do-list-eight-ebon.vercel.app/)              |
-| **[Turbo Type]**     | TypeScript, Node.js, React, Mongodb | [Live Site](https://turbotype-omega.vercel.app/)       |
-| **[student-skill-passport]**  | React, Vite, Node.js, Express.js, Auth.js   | [Live Site](https://student-skill-passport.vercel.app/)         |
 
+| 🚀 Project                                | 🔧 Stack                                  | 👁️ View                                                          |
+| ----------------------------------------- | ----------------------------------------- | ---------------------------------------------------------------- |
+| **[Movie Reviewer]**                      | React, Vite, PostgreSQL, Supabase backend | [Live Site](https://movie-search-app-rho-azure.vercel.app/)      |
+| **[Solar-Powered Smart Backpack System]** | TypeScript, Node.js, Google APIs, Mongodb | [Live Site](https://solar-power-hub.vercel.app/)                 |
+| **[Github-Profile-Viewer]**               | React, Vite, Tailwind                     | [Live Site](https://github-profile-viewer-phi-lemon.vercel.app/) |
+| **[TaskNova]**                            | React, Vite, Node.js, Mongodb             | [Live Site](https://to-do-list-eight-ebon.vercel.app/)           |
+| **[Turbo Type]**                          | TypeScript, Node.js, React, Mongodb       | [Live Site](https://turbotype-omega.vercel.app/)                 |
+| **[student-skill-passport]**              | React, Vite, Node.js, Express.js, Auth.js | [Live Site](https://student-skill-passport.vercel.app/)          |
 
 </td>
 <td valign="top" width="50%">
 
 ### 🤝 Group-Projects
-| 🚀 Project | 🔧 Stack | 👁️ View |
-|-----------|----------|---------|
-| **[Goodreads PHP Backend]** | PHP, MySQL | [GitHub Repo](https://github.com/anon381/goodreads-php-backend) |
-| **[IP-1 Project]** | Full Stack Book Manager | [GitHub Repo](https://github.com/anon381/IP-1-Project) |
+
+| 🚀 Project                  | 🔧 Stack                | 👁️ View                                                         |
+| --------------------------- | ----------------------- | --------------------------------------------------------------- |
+| **[Goodreads PHP Backend]** | PHP, MySQL              | [GitHub Repo](https://github.com/anon381/goodreads-php-backend) |
+| **[IP-1 Project]**          | Full Stack Book Manager | [GitHub Repo](https://github.com/anon381/IP-1-Project)          |
 
 </td>
 </tr>
 </table>
 
 ---
+
 ## 🚧 Ongoing Projects
 
-| 🚀 Project | 🔧 Stack | 👁️ View |
-|-----------|----------|---------|
+| 🚀 Project             | 🔧 Stack                                 | 👁️ View                                           |
+| ---------------------- | ---------------------------------------- | ------------------------------------------------- |
 | **[Kidus production]** | Next.js, Typescript, Tailwind, shadcn/ui | [Live Site](https://kidus-production.vercel.app/) |
-
 
 ---
 
 </div>
-
 
 <!--
 
@@ -243,13 +238,12 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/anon381/leetcode?style=for-the-badge)
 
 ---
+
 <p align="center" style=" font-weight: bold; margin: 0;">
   📊 GitHub Stats
 </p>
 
 ---
-
-
 
 <p align="center" style=" font-weight: bold; margin: 0;">
   🏆 GitHub Trophies
@@ -260,18 +254,13 @@
   </a>
 </p>
 
-
 ---
-
-
 
 <p align="center">
   <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=anon381&show_icons=true&count_private=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF&icon_color=FF8C00" height="160"/>
 
-
   <!-- Top Languages -->
- 
 
 <a href="https://github.com/anon381" target="_blank" style="display:inline-block;">
   <img 
@@ -283,7 +272,6 @@
   />
 </a>
 
-
 </p>
 
 ---
@@ -291,7 +279,6 @@
 <p align="center">
   🔥 GitHub Streak
 </p>
-
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
@@ -302,28 +289,24 @@
   </a>
 </p>
 
-
-
-
-
-
 ---
 
 ## 🧠 Coding Profiles
 
-
 <p align="center"> <img src="https://leetcard.jacoblin.cool/anonized?theme=dark&bg_color=0D1117&font=Fira+Code&ext=contest&ext_color=1E90FF&ext_opacity=100&font_color=FFFFF0" height="200" alt="LeetCode Stats"/> <img src="https://codeforces-readme-stats.vercel.app/api/card?username=yabnon&theme=github_dark&title_color=FFFFF0&icon_color=1E90FF&text_color=FFFFF0&bg_color=0D1117" height="200" alt="Codeforces Stats"/> </p>
-
-
-
-
 
 ---
 
 ## 📫 Contact-Me
 
->📧 Telegram: [@Anonymous_l_y](https://t.me/Anonymous_l_y)
-------------------------------------
+> 📧 Telegram: [@Anonymous_l_y](https://t.me/Anonymous_l_y)
+
+---
+
+<p align="center">
+  <a href="https://yabets-maregn.vercel.app/" target="_blank">Portfolio — https://yabets-maregn.vercel.app/</a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
 </p>
